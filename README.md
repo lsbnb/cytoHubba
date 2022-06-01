@@ -17,4 +17,4 @@
 ### ▲Description
 Explore important nodes/hubs and fragile motifs in an interactome network by several topological algorithms including Degree, Edge Percolated Component (EPC), Maximum Neighborhood Component (MNC), Density of Maximum Neighborhood Component (DMNC), Maximal Clique Centrality (MCC) and centralities based on shortest paths, such as Bottleneck (BN), EcCentricity, Closeness, Radiality, Betweenness, and Stress.
 
-
+![cytohubba_1](https://apps.cytoscape.org/media/cytohubba/screenshots/S3_7.gif)
